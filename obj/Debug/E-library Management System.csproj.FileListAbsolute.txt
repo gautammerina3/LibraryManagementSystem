@@ -1,0 +1,59 @@
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\bin\E-library Management System.dll.config
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\bin\E-library Management System.dll
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\bin\E-library Management System.pdb
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\bin\roslyn\csc.exe
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\bin\roslyn\csc.exe.config
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\bin\roslyn\csc.rsp
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\bin\roslyn\csi.exe
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\bin\roslyn\csi.exe.config
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\bin\roslyn\csi.rsp
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\bin\roslyn\System.AppContext.dll
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\bin\roslyn\System.Console.dll
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\bin\roslyn\System.IO.Compression.dll
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\bin\roslyn\System.Net.Http.dll
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\bin\roslyn\System.ValueTuple.dll
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\bin\roslyn\vbc.exe
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\bin\roslyn\vbc.exe.config
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\bin\roslyn\vbc.rsp
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\obj\Debug\E-library Management System.csproj.AssemblyReference.cache
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\obj\Debug\E-library Management System.csproj.CoreCompileInputs.cache
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\obj\Debug\E-library Management System.csproj.CopyComplete
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\obj\Debug\E-library Management System.dll
+C:\Users\Bikal Nepal\source\repos\E-library Management System\E-library Management System\obj\Debug\E-library Management System.pdb
